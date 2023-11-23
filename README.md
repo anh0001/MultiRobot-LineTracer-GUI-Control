@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Multi Robot Line Tracer GUI & Control, 
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
+- Member 1: [Mochammad Fihkri Dwi Anggara] - [4121600050]
 - Member 2: [Name] - [Student ID]
 - ... (Add all team members with their IDs)
 
