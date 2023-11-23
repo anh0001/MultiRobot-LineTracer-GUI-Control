@@ -6,7 +6,6 @@ Welcome to the GitHub repository for our Multi Robot Line Tracer GUI & Control, 
 
 - Member 1: Muhammad Irfan Habib - 4121600045
 - Member 2: Ramadhan Tegar Imansyah - 4121600053
-- ... (Add all team members with their IDs)
 
 ## Repository Structure
 
