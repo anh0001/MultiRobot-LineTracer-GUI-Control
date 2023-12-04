@@ -7,7 +7,7 @@ Welcome to the GitHub repository for our Multi Robot Line Tracer GUI & Control, 
 - Kelas A Grup 1 Meka 2023:
   - Member 1: Aditya Prasetyo - 4121600008
   - Member 2: Hafizh Hafiyyan - 4121600018
-  - Member 3: Isna Afifatin Nisa' - 4121600021gf
+  - Member 3: Isna Afifatin Nisa' - 4121600021
 
 ## Repository Structure
 
