@@ -1,12 +1,14 @@
 # Multi Robot Line Tracer GUI & Control
 
-Welcome to the GitHub repository for our Multi Robot Line Tracer GUI & Control, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
+Welcome to the GitHub repository for our Multi-Robot Line Tracer GUI & Control, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
 
-- Kelas B Meka 2023:
-  - Member 1: Muhammad Irfan Habib - 4121600045
-  - Member 2: Ramadhan Tegar Firmansyah - 4121600053
+- Mechatronics B 2021:
+  - Muhammad Irfan Habib - 4121600045
+  - Ramadhan Tegar Firmansyah - 4121600053
+  - Muhammad Irfan Afandi - 4121600044
+  - Fikhri Dwi Anggara - 4121600050
 
 ## Repository Structure
 
