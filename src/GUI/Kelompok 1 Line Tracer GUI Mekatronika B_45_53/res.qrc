@@ -1,0 +1,120 @@
+<RCC>
+  <qresource prefix="image">
+    <file>Image/Group_34-removebg-preview.png</file>
+    <file>Image/habib.jpeg</file>
+    <file>Image/Polygon 1.png</file>
+    <file>Image/Polygon 2.png</file>
+    <file>Image/Polygon 3.png</file>
+    <file>Image/Polygon 4.png</file>
+    <file>Image/Group 21.png</file>
+    <file>Image/Group 22.png</file>
+    <file>Image/Group 23.png</file>
+    <file>Image/Group 26.png</file>
+    <file>Image/Group 28.png</file>
+    <file>Image/Group 29.png</file>
+    <file>Image/Group_30-removebg-preview.png</file>
+    <file>Image/Group_31-removebg-preview.png</file>
+    <file>Image/Group_32-removebg-preview.png</file>
+    <file>Image/Group_33-removebg-preview.png</file>
+    <file>Image/Rectangle_28-removebg-preview.png</file>
+    <file>Image/Rectangle_32__1_-removebg-preview.png</file>
+    <file>Image/Rectangle_39-removebg-preview.png</file>
+    <file>Image/Rectangle_40-removebg-preview.png</file>
+    <file>Image/Rectangle_41-removebg-preview.png</file>
+    <file>Image/Rectangle 16.png</file>
+    <file>Image/Ellipse 17.png</file>
+    <file>Image/Ellipse 60.png</file>
+    <file>Image/Ellipse 61.png</file>
+    <file>Image/Ellipse 62.png</file>
+    <file>Image/Ellipse 63.png</file>
+    <file>Image/Ellipse 64.png</file>
+    <file>Image/assembling.jpg</file>
+    <file>Image/line.gif</file>
+    <file>Image/linetr.png</file>
+    <file>Image/linetracer__-removebg-preview.png</file>
+    <file>Image/line-tracker.gif</file>
+    <file>Image/line-tracker.jpg</file>
+    <file>Image/Ramadhan Tegar Imansyah_4121600053_D4 Teknik Mekatronika B.jpg</file>
+    <file>Image/rategam-removebg-preview.png</file>
+    <file>Image/ratinggambar-removebg-preview.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>Icon/rectangle-svgrepo-com.svg</file>
+    <file>Icon/pepicons-pop_wifi.png</file>
+    <file>Icon/bi_robot.png</file>
+    <file>Icon/Group 12.png</file>
+    <file>Icon/iconoir_database-solid.png</file>
+    <file>Icon/material-symbols_nest-cam-magnet-mount-outline-sharp.png</file>
+    <file>Icon/mdi_connection.png</file>
+    <file>Icon/streamline_camera-loading-solid.png</file>
+    <file>Icon/tabler_progress-check.png</file>
+    <file>Icon/close (1).png</file>
+    <file>Icon/close (2).png</file>
+    <file>Icon/plus-circle-svgrepo-com.svg</file>
+    <file>Icon/information.png</file>
+    <file>Icon/icons8-double-right-20.png</file>
+    <file>Icon/icons8-close.svg</file>
+    <file>Icon/line-chart-svgrepo-com.svg</file>
+    <file>Icon/obstacle.png</file>
+    <file>Icon/calibrate-svgrepo-com.svg</file>
+    <file>Icon/cable-svgrepo-com.svg</file>
+    <file>Icon/wireless-router-svgrepo-com.svg</file>
+    <file>Icon/zigzag-arrow.png</file>
+    <file>Icon/gyroscope.png</file>
+    <file>Icon/ultrasonic-sensor.png</file>
+    <file>Icon/exit-svgrepo-com.svg</file>
+    <file>Icon/help-desk-log-svgrepo-com.svg</file>
+    <file>Icon/rating-star-svgrepo-com.svg</file>
+    <file>Icon/reminder-svgrepo-com.svg</file>
+    <file>Icon/search-alt-2-svgrepo-com.svg</file>
+    <file>Icon/arduino-svgrepo-com (1).svg</file>
+    <file>Icon/arduino-svgrepo-com.svg</file>
+    <file>Icon/close (1).svg</file>
+    <file>Icon/discord-svgrepo-com.svg</file>
+    <file>Icon/facebook-round-svgrepo-com.svg</file>
+    <file>Icon/github-142-svgrepo-com.svg</file>
+    <file>Icon/icons8-close-16.png</file>
+    <file>Icon/icons8-collapse-20.png</file>
+    <file>Icon/icons8-collapse-48.png</file>
+    <file>Icon/icons8-connect-24.png</file>
+    <file>Icon/icons8-copy-20.png</file>
+    <file>Icon/icons8-cut-20.png</file>
+    <file>Icon/icons8-delete-file-20.png</file>
+    <file>Icon/icons8-down-50.png</file>
+    <file>Icon/icons8-down-64.png</file>
+    <file>Icon/icons8-drop-down-64.png</file>
+    <file>Icon/icons8-exit-20 (1).png</file>
+    <file>Icon/icons8-expand-48.png</file>
+    <file>Icon/icons8-fullscreen-20.png</file>
+    <file>Icon/icons8-github-30.png</file>
+    <file>Icon/icons8-home-48 (1).png</file>
+    <file>Icon/icons8-home-48.png</file>
+    <file>Icon/icons8-left-48.png</file>
+    <file>Icon/icons8-left-64 (1).png</file>
+    <file>Icon/icons8-left-64.png</file>
+    <file>Icon/icons8-magnifying-glass-48.png</file>
+    <file>Icon/icons8-mail-50.png</file>
+    <file>Icon/icons8-man-16.png</file>
+    <file>Icon/icons8-menu-32.png</file>
+    <file>Icon/icons8-menu-48.png</file>
+    <file>Icon/icons8-monitoring-50.png</file>
+    <file>Icon/icons8-most-recent-20.png</file>
+    <file>Icon/icons8-opened-folder-20.png</file>
+    <file>Icon/icons8-paste-20.png</file>
+    <file>Icon/icons8-policy-20.png</file>
+    <file>Icon/icons8-privacy-20.png</file>
+    <file>Icon/icons8-right-48.png</file>
+    <file>Icon/icons8-right-64.png</file>
+    <file>Icon/icons8-robot-48.png</file>
+    <file>Icon/icons8-save-file-20.png</file>
+    <file>Icon/icons8-select-24.png</file>
+    <file>Icon/icons8-setting-48.png</file>
+    <file>Icon/icons8-steering-wheel-50.png</file>
+    <file>Icon/icons8-up-64.png</file>
+    <file>Icon/icons8-whatsapp-50.png</file>
+    <file>Icon/maximize.svg</file>
+    <file>Icon/minus.svg</file>
+    <file>Icon/twitter-round-svgrepo-com.svg</file>
+    <file>Icon/youtube-round-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
