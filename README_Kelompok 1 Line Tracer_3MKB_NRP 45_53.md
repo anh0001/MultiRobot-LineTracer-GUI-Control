@@ -4,14 +4,16 @@ Welcome to the GitHub repository for our Multi-Robot Line Tracer GUI & Control, 
 
 ## Team Members
 
-- Mechatronics B 2021: </b>
+- Mechatronics B 2021:
+
   Kelompok 1
-  - Muhammad Irfan Habib - 4121600045
-  - Ramadhan Tegar Imansyah - 4121600053 </b>
+    - Muhammad Irfan Habib - 4121600045
+    - Ramadhan Tegar Imansyah - 4121600053 
+
   Kelompok 2
-  - Nurhaliza Izaturrahmani - 4121600040
-  - Muhammad Irfan Afandi - 4121600044
-  - Fikhri Dwi Anggara - 4121600050
+    - Nurhaliza Izaturrahmani - 4121600040
+    - Muhammad Irfan Afandi - 4121600044
+    - Fikhri Dwi Anggara - 4121600050
 
 ## Repository Structure
 
