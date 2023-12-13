@@ -21,7 +21,7 @@ void Maju(int a, int b){
   digitalWrite(m2_in1,0);
   digitalWrite(m2_in2,1);
   analogWrite(m2_pwm,b);
-}
+} 
 
 void Mundur(int a, int b){
   digitalWrite(m1_in1,HIGH);

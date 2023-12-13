@@ -46,4 +46,4 @@ void loop() {
   // digitalWrite(BIN1, LOW);
   // digitalWrite(BIN2, HIGH);
   // delay(1000);  // Motor mundur selama 1 detik
-}
+} 

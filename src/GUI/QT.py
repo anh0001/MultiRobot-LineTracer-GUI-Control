@@ -576,4 +576,4 @@ if _name_ == "_main_":
     ui = Ui_Dialog()
     ui.setupUi(Dialog)
     Dialog.show()
-    sys.exit(app.exec())
+    sys.exit(app.exec()) 

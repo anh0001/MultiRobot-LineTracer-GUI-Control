@@ -32,4 +32,4 @@ void loop() {
 	Serial.println(mpu.getAngleZ());
 	timer = millis();  
   }
-}
+} 

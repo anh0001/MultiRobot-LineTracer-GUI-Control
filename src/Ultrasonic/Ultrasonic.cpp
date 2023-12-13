@@ -68,4 +68,4 @@ void loop() {
   Serial.println(" cm");
 
   delay(500); // Jeda selama 0.5 detik
-}
+} 
