@@ -113,6 +113,10 @@ void loop() {
     distanceData.remove(0, distanceData.indexOf(',') + 1);
     int distance3 = distanceData.toInt();
 
+  Serial.println(distance1); Serial.print(","); // Kirim data ke Arduino Master melalui Serial
+  Serial.print(distance2); Serial.print(",");
+  Serial.println(distance3);
+
     // Contoh: Jika jarak kurang dari ambang batas tertentu, putar motor
     if (distance2 < 20) {
       Maju(100,100);
@@ -121,11 +125,11 @@ void loop() {
     }
 
     if (distance1 < distance3){
-      MajuKanan(100,100);
+      MajuKiri(100,100);
     } 
     else
     {
-      MajuKiri(100,100);
+      MajuKanan(100,100);
     }
 
   }
