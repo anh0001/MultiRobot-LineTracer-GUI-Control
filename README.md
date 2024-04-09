@@ -1,6 +1,6 @@
 # Multi Robot Line Tracer GUI & Control
 
-Welcome to the GitHub repository for our Multi Robot Line Tracer GUI & Control, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
+Welcome to the GitHub repository for our Multi-Robot Line Tracer GUI & Control, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
 
